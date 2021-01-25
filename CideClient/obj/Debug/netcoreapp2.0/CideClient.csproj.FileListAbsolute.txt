@@ -1,0 +1,16 @@
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\CideClient.deps.json
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\CideClient.runtimeconfig.json
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\CideClient.runtimeconfig.dev.json
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\CideClient.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\CideClient.pdb
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\EliteAPI.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\EliteAPI.pdb
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Debug\netcoreapp2.0\EliteAPI.xml
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.csprojAssemblyReference.cache
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.AssemblyInfoInputs.cache
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.AssemblyInfo.cs
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.csproj.CoreCompileInputs.cache
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.csproj.CopyComplete
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.pdb
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\obj\Debug\netcoreapp2.0\CideClient.genruntimeconfig.cache

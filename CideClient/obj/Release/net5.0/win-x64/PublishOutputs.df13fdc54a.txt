@@ -1,0 +1,7 @@
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\CideClient.pdb
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\clrjit.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\coreclr.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\EliteAPI.pdb
+U:\Users\Luky\Documents\Projekty\CideClient\CideClient\bin\Release\net5.0\win-x64\publish\CideClient.exe

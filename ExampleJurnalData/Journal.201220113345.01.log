@@ -1,0 +1,6 @@
+{ "timestamp":"2020-12-20T10:33:45Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"Fleet Carriers Update - Patch 9", "build":"r251354/r0 " }
+{ "timestamp":"2020-12-20T10:33:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2020-12-20T10:33:45Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2020-12-20T10:34:22Z", "event":"Friends", "Status":"Online", "Name":"OJIK" }
+{ "timestamp":"2020-12-20T10:34:22Z", "event":"Friends", "Status":"Online", "Name":"Realtoltek Dzehenuti" }
+{ "timestamp":"2020-12-20T10:34:22Z", "event":"Friends", "Status":"Online", "Name":"MilanK" }

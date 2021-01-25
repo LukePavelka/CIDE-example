@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "U:\\Users\\Luky\\Documents\\Projekty\\CideClient\\CideClient\\CideClient.csproj": {}
+  },
+  "projects": {
+    "U:\\Users\\Luky\\Documents\\Projekty\\CideClient\\CideClient\\CideClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "U:\\Users\\Luky\\Documents\\Projekty\\CideClient\\CideClient\\CideClient.csproj",
+        "projectName": "CideClient",
+        "projectPath": "U:\\Users\\Luky\\Documents\\Projekty\\CideClient\\CideClient\\CideClient.csproj",
+        "packagesPath": "U:\\Users\\Luky\\.nuget\\packages\\",
+        "outputPath": "U:\\Users\\Luky\\Documents\\Projekty\\CideClient\\CideClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "U:\\Users\\Luky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "EliteAPI": {
+              "target": "Package",
+              "version": "[3.0.0-alpha0995, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "Somfic.Logging.Console": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[5.0.1, 5.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[5.0.1, 5.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[5.0.1, 5.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{ "timestamp":"2020-12-20T20:04:48Z", "event":"Market", "MarketID":3704238848, "StationName":"J5G-61H", "StationType":"FleetCarrier", "CarrierDockingAccess":"friends", "StarSystem":"LTT 12058", "Items":[ 
+{ "id":128961249, "Name":"$tritium_name;", "Name_Localised":"Tritium", "Category":"$MARKET_category_chemicals;", "Category_Localised":"Chemicals", "BuyPrice":2579, "SellPrice":0, "MeanPrice":0, "StockBracket":2, "DemandBracket":0, "Stock":540, "Demand":0, "Consumer":false, "Producer":true, "Rare":false }
+ ] }
